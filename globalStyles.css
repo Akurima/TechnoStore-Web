@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: 'Nunito Sans', sans-serif;
+    cursor: url(IMG/Cursor.cur), pointer;
+}
+
+body {
+    width: 1280px;
+    height: 1024px;
+}
+
+header {
+    position: relative;
+    width: 1280px;
+    height: 124px;
+    background: linear-gradient(to right, rgb(70, 172, 245, 0.8), rgb(34, 4, 119, 0.9));
+}
+
+#Logotipo {
+    position: absolute;
+    top: 20px;
+    left: 12px;
+
+}
+
+#Busqueda {
+    position: relative;
+    width: 160px;
+    height: 35px;
+    top: 46px;
+    left: 295px;
+    background-color: rgba(162, 237, 248, 0.738);
+    border-radius: 15px;
+    border: 1px blue solid;
+    color: black;
+    font-size: 16px;
+}
+
+#Busqueda::after {
+    background: wheat;
+}

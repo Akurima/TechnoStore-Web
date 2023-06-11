@@ -1,0 +1,53 @@
+.navBar {
+    position: absolute;
+    width: 158px;
+    height: 78px;
+}
+
+#Hardware {
+    top: 22px;
+    left: 520px;
+    background: linear-gradient(to bottom right, rgb(82, 239, 250), rgb(107, 8, 206));
+    border-radius: 25px;
+}
+
+#Hardware:hover {
+    background: linear-gradient(to bottom right, rgb(97, 132, 246), rgb(4, 241, 87));
+    box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.505), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#Software {
+    background: linear-gradient(to bottom right, rgb(82, 239, 250), rgb(107, 8, 206));
+    top: 22px;
+    left: 710px;
+    border-radius: 25px;
+}
+
+#Software:hover {
+    background: linear-gradient(to bottom right, rgb(97, 132, 246), rgb(4, 241, 87));
+    box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.505), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#Setup {
+    top: 22px;
+    left: 900px;
+    background: linear-gradient(to bottom right, rgb(82, 239, 250), rgb(107, 8, 206));
+    border-radius: 25px;
+}
+
+#Setup:hover {
+    background: linear-gradient(to bottom right, rgb(97, 132, 246), rgb(4, 241, 87));
+    box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.505), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#Servicios {
+    top: 22px;
+    left: 1090px;
+    background: linear-gradient(to bottom right, rgb(82, 239, 250), rgb(107, 8, 206));
+    border-radius: 25px;
+}
+
+#Servicios:hover {
+    background: linear-gradient(to bottom right, rgb(97, 132, 246), rgb(4, 241, 87));
+    box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.505), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
