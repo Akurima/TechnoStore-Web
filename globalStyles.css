@@ -20,24 +20,6 @@ header {
 
 #Logotipo {
     position: absolute;
-    top: 20px;
+    top: 10px;
     left: 12px;
-
-}
-
-#Busqueda {
-    position: relative;
-    width: 160px;
-    height: 35px;
-    top: 46px;
-    left: 295px;
-    background-color: rgba(162, 237, 248, 0.738);
-    border-radius: 15px;
-    border: 1px blue solid;
-    color: black;
-    font-size: 16px;
-}
-
-#Busqueda::after {
-    background: wheat;
 }

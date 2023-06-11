@@ -51,3 +51,23 @@
     background: linear-gradient(to bottom right, rgb(97, 132, 246), rgb(4, 241, 87));
     box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.505), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
+
+#Busqueda {
+    width: 160px;
+    height: 30px;
+    position: absolute;
+    background: url(IMG/loupe.png);
+    background-repeat: no-repeat;
+    background-size: 16px;
+    background-position: right;
+    background-position-x: 95%;
+    top: 46px;
+    left: 295px;
+    border: 1px black solid;
+    font-size: 16px;
+    color: black;
+    font-style: italic;
+    border-radius: 30px;
+    text-indent: 10px;
+}
+
