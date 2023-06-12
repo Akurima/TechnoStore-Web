@@ -1,0 +1,14 @@
+section {
+    position: relative;
+    width: 800px;
+    height: 500px;
+    left: 6px;
+    top: 6px;
+    border: 1px black solid;
+    background-position: center;
+
+}
+
+section div {
+    
+}
