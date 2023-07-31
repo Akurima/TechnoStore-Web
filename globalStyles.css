@@ -9,13 +9,14 @@
 body {
     width: 1280px;
     height: 1024px;
+    background: rgb(23, 85, 156, 0.5);
 }
 
 header {
     position: relative;
     width: 1280px;
     height: 124px;
-    background: linear-gradient(to right, rgb(70, 172, 245, 0.8), rgb(34, 4, 119, 0.9));
+    background: linear-gradient(to right, #46acf5c6, rgb(34, 4, 119, 0.9));
 }
 
 #Logotipo {

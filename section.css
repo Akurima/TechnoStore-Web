@@ -1,14 +1,8 @@
-section {
+div#Contenedor1 {
     position: relative;
-    width: 800px;
-    height: 500px;
-    left: 6px;
-    top: 6px;
-    border: 1px black solid;
-    background-position: center;
-
-}
-
-section div {
-    
+    width: 716px;
+    height: 537px;
+    left: 14px;
+    top: 19px;
+    background: linear-gradient(to right, #46acf5c6, rgb(34, 4, 119, 0.9));;
 }

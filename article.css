@@ -1,0 +1,29 @@
+article #article1 {
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    position: absolute;
+    left: 790px;
+    top: 144px;
+
+}
+
+article #article2 {
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    position: absolute;
+    left: 790px;
+    top: 364px;
+
+}
+
+article #article3 {
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    position: absolute;
+    left: 790px;
+    top: 584px;
+
+}

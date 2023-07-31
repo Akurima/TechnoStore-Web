@@ -1,0 +1,15 @@
+Cuando creamos, modificamos o eliminamos un archivo, estos cambios suceden en local y no se incluirán en el siguiente commit (a menos que cambiemos la configuración).
+
+Necesitamos usar el comando git add para incluir los cambios del o de los archivos en tu siguiente commit.
+
+git add -A
+
+Este sea quizás el comando más utilizado de Git. Una vez que se llega a cierto punto en el desarrollo, queremos guardar nuestros cambios (quizás después de una tarea o asunto específico).  
+
+Git commit es como establecer un punto de control en el proceso de desarrollo al cual puedes volver más tarde si es necesario. 
+
+git commit -m "mensaje de confirmación"
+
+Después de haber confirmado tus cambios, el siguiente paso que quieres dar es enviar tus cambios al servidor remoto. Git push envía tus commits al repositorio remoto.
+
+git push <nombre-remoto> <nombre-de-tu-rama>
